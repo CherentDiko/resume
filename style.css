@@ -1,0 +1,53 @@
+#coulmns {
+  display: flex;
+}
+
+#coulmns p {
+  margin: 2em;
+  background-color: blue;
+  color: azure;
+  padding: 1em;
+}
+
+h1 {
+  text-align: center;
+}
+
+/* .box-1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.Box-2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.Box-4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.Box-5 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-evenly;
+}
+
+.Box-6 {
+  display: flex;
+  align-content: flex-start;
+  justify-content: space-evenly;
+} */
+
+.horizantal {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.box-1 {
+}
